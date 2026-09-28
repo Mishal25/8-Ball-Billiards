@@ -1,0 +1,8 @@
+{
+  "name": "8-Ball Billiards",
+  "description": "Play Smart. Aim Sharp. Rule the Table. A premium 8-ball pool web game with realistic physics, AI difficulty modes, and local multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
